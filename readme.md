@@ -4,3 +4,5 @@
 
 `npm install`
 `npm start`
+
+## the api url is : 'http://localhost:5000/api/v1/products'
